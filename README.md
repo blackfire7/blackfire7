@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Sharma</h1>
 <h3 align="center">Learning mode is always on!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blackfire7&label=Profile%20views&color=0e75b6&style=flat" alt="blackfire7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackfire7" alt="blackfire7" /></a> </p>
-
-- 🌱 I’m currently learning **RxJs & NgRx**
-
-- 💬 Ask me about **Angular, Java, Git & CSS**
-
-- 📫 How to reach me **sahil.sharma1912@gmail.com**
+- 🌱 I’m currently learning...
 
 - ⚡ Fun fact **I am not funny. Not at all 👻**
 
